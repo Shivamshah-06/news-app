@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/news-appgit%20add%20./static/css/main.c42f3d0f.css",
+    "main.js": "/news-appgit%20add%20./static/js/main.fa9832ff.js",
+    "static/js/787.4c026eef.chunk.js": "/news-appgit%20add%20./static/js/787.4c026eef.chunk.js",
+    "static/media/Iphone-spinner-2.gif": "/news-appgit%20add%20./static/media/Iphone-spinner-2.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/news-appgit%20add%20./index.html",
+    "main.c42f3d0f.css.map": "/news-appgit%20add%20./static/css/main.c42f3d0f.css.map",
+    "main.fa9832ff.js.map": "/news-appgit%20add%20./static/js/main.fa9832ff.js.map",
+    "787.4c026eef.chunk.js.map": "/news-appgit%20add%20./static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c42f3d0f.css",
+    "static/js/main.fa9832ff.js"
+  ]
+}
